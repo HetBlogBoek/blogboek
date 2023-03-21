@@ -1,0 +1,44 @@
+body {
+    font-size: 1.6rem;
+    font-family: "Frutiger", sans-serif;
+    color: #ffffff;
+    background-color: #181818;
+}
+
+.header{
+    text-decoration: none;
+    color: white;
+}
+
+.bloglist {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 50px auto;
+    width: 400px;
+}
+
+.blogblock {
+    margin-bottom: 30px;
+    width: 400px;
+}
+
+
+.bloglink:link,
+.bloglink:visited {
+    width: 350px;
+    background-color: #4a4173;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+    /* border: 1px grey solid; */
+}
+
+.bloglink:hover,
+.bloglink:active {
+    background-color: #3e346b;
+}
