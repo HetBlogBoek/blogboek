@@ -1,5 +1,5 @@
 body {
-    font-size: 1.6rem;
+    font-size: 1.8rem;
     font-family: "Frutiger", sans-serif;
     color: #ffffff;
     background-color: #181818;
@@ -8,6 +8,7 @@ body {
 .header{
     text-decoration: none;
     color: white;
+    margin-bottom: 50px;
 }
 
 .content {
@@ -21,6 +22,7 @@ body {
 .alineakop{
     align-self: flex-start;
     font-weight: bold;
+    margin-top: 25px;
 }
 
 .alinea{
@@ -29,9 +31,14 @@ body {
     line-height: 1.4;
 }
 
+.footerdate{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    text-align: center;
+}
+
 @media only screen and (max-width: 1000px) {
     .content {
         width: 90%;
     }
   }
-  
