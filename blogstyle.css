@@ -40,5 +40,9 @@ body {
 @media only screen and (max-width: 1000px) {
     .content {
         width: 90%;
+        font-size: 2.8rem;
+    }
+    .alineakop{
+        width: 100%;
     }
   }
