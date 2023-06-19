@@ -1,5 +1,5 @@
 body {
-    font-size: 1.6rem;
+    font-size: 1.8rem;
     font-family: "Frutiger", sans-serif;
     color: #ffffff;
     background-color: #181818;
@@ -35,7 +35,6 @@ body {
     text-decoration: none;
     display: inline-block;
     border-radius: 10px;
-    /* border: 1px grey solid; */
 }
 
 .bloglink:hover,
