@@ -4,7 +4,7 @@ let mediumFontDesktop = '1.4rem';
 let smallFontDesktop = '1rem';
 let bigFontMobile = '3.3rem';
 let mediumFontMobile = '2.8rem';
-let smallFontMobile = '2.0rem';
+let smallFontMobile = '1.8rem';
 
 document.getElementById('fontBig').addEventListener('click', function() {
     if(isMobile.matches){

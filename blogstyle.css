@@ -10,6 +10,7 @@ body {
     color: white;
     margin-bottom: 15px;
     font-size: 1.8rem;
+    white-space: nowrap
 }
 
 .fontsizes{
